@@ -2,7 +2,7 @@
 ##### Docs Resourses and Extension
 ***
 
-##### [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+##### Read more about [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 ##### Visit [Docs](https://learncomputeracademy.github.io/docs-resourse/)
 
