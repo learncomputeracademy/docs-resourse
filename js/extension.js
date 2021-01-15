@@ -16,20 +16,23 @@
             });
 
             //When Back Button got Clicked
-            back.addEventListener('click', () => {
-                //Back Button
-                back.style.transform = 'translate3d(-150%, 0, 0)';
+            const backBtn = () => {
+                back.addEventListener('click', () => {
+                    //Back Button
+                    back.style.transform = 'translate3d(-150%, 0, 0)';
 
-                // Lower Block
-                blocks.forEach(block => {
-                    block.classList.remove('lowerSlide');
+                    // Lower Block
+                    blocks.forEach(block => {
+                        block.classList.remove('lowerSlide');
+                    });
+                    actualLinksBlock.style.zIndex = 1;
+
+                    //Upper Block
+                    linkBlock.classList.remove('slide');
+                    myBtnContainer.style.zIndex = 2;
                 });
-                actualLinksBlock.style.zIndex = 1;
-
-                //Upper Block
-                linkBlock.classList.remove('slide');
-                myBtnContainer.style.zIndex = 2;
-            });
+            }
+            backBtn();
 
             links.forEach(link => {
 
@@ -56,21 +59,21 @@
 
         //Call the function
         AD1();
-//    const img = document.getElementById('img');
-//
-//    window.addEventListener('load', async e => {
-//
-//        let targetUrl = 'https://chiranjit2020.github.io/docs-resourses/logo-white.png';
-//
-//        const result = await fetch(targetUrl, {
-//            headers: {
-//                'content-type': 'application/json'
-//            },
-//            mode: 'no-cors'
-//        });
-//        //const result = await fetch("http://localhost:3000/logo-white.png");
-//        const blob = await result.blob();
-//        img.src = URL.createObjectURL(blob);
-//
-//
-//    });
+        //    const img = document.getElementById('img');
+        //
+        //    window.addEventListener('load', async e => {
+        //
+        //        let targetUrl = 'https://chiranjit2020.github.io/docs-resourses/logo-white.png';
+        //
+        //        const result = await fetch(targetUrl, {
+        //            headers: {
+        //                'content-type': 'application/json'
+        //            },
+        //            mode: 'no-cors'
+        //        });
+        //        //const result = await fetch("http://localhost:3000/logo-white.png");
+        //        const blob = await result.blob();
+        //        img.src = URL.createObjectURL(blob);
+        //
+        //
+        //    });
