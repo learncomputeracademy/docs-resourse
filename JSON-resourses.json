@@ -1,0 +1,676 @@
+{
+    "resourses": [{
+            "id": "1",
+            "category": "freeimages",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-1.png",
+            "site_url": "https://www.freepik.com/",
+            "title": "freepik"
+		},
+        {
+            "id": "2",
+            "category": "freeimages",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-2.png",
+            "site_url": "https://www.pexels.com/",
+            "title": "pexels"
+		},
+        {
+            "id": "3",
+            "category": "freeimages",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-3.png",
+            "site_url": "https://unsplash.com/",
+            "title": "unsplash"
+		},
+        {
+            "id": "4",
+            "category": "freeimages",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-4.png",
+            "site_url": "https://burst.shopify.com/",
+            "title": "burst"
+		},
+        {
+            "id": "5",
+            "category": "freeimages",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-5.png",
+            "site_url": "https://pixelmob.co/",
+            "title": "pixelmobs"
+		},
+        {
+            "id": "6",
+            "category": "freeimages",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-6.png",
+            "site_url": "https://undraw.co/illustrations",
+            "title": "undraw"
+		},
+        {
+            "id": "7",
+            "category": "freeimages",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-7.png",
+            "site_url": "https://tinypng.com/",
+            "title": "tinypng"
+		},
+        {
+            "id": "8",
+            "category": "freeimages",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-8.png",
+            "site_url": "https://pixabay.com/",
+            "title": "pixabay"
+		},
+        {
+            "id": "9",
+            "category": "freeimages",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-66.png",
+            "site_url": "https://www.cleanpng.com/",
+            "title": "cleanpng"
+		},
+        {
+            "id": "10",
+            "category": "freeimages",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-67.jpg",
+            "site_url": "http://www.fuzzimo.com/",
+            "title": "fuzzimo"
+		},
+        {
+            "id": "11",
+            "category": "freeimages",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-8-3.jpg",
+            "site_url": "https://www.photopea.com/",
+            "title": "photopea"
+		},
+        {
+            "id": "12",
+            "category": "freeimages",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-8-4.jpg",
+            "site_url": "https://graphicburger.com/mock-ups/",
+            "title": "graphic burger"
+		},
+        {
+            "id": "13",
+            "category": "freeimages",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-8-5.jpg",
+            "site_url": "https://www.pixeden.com/",
+            "title": "pixeden"
+		},
+        {
+            "id": "14",
+            "category": "freeimages",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-8-6.jpg",
+            "site_url": "https://www.mockupworld.co/all-mockups/",
+            "title": "mockupworld"
+		},
+        {
+            "id": "15",
+            "category": "colors",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-9.png",
+            "site_url": "https://coolors.co/",
+            "title": "coolors"
+		},
+        {
+            "id": "16",
+            "category": "colors",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-10.png",
+            "site_url": "https://color.adobe.com/create",
+            "title": "adobe color"
+		},
+        {
+            "id": "17",
+            "category": "colors",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-11.png",
+            "site_url": "https://flatuicolors.com/",
+            "title": "flat ui colors"
+		},
+        {
+            "id": "18",
+            "category": "colors",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-12.png",
+            "site_url": "https://mycolor.space/",
+            "title": "color space"
+		},
+        {
+            "id": "19",
+            "category": "colors",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-13.png",
+            "site_url": "https://colorhunt.co/",
+            "title": "colorhunt"
+		},
+        {
+            "id": "20",
+            "category": "colors",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-14.png",
+            "site_url": "http://colormind.io/bootstrap/",
+            "title": "color mind"
+		},
+        {
+            "id": "21",
+            "category": "colors",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-15.png",
+            "site_url": "https://www.colorhexa.com/",
+            "title": "color hexa"
+		},
+        {
+            "id": "22",
+            "category": "colors",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-16.png",
+            "site_url": "https://www.canva.com/learn/brand-color-palette/",
+            "title": "canva"
+		},
+        {
+            "id": "23",
+            "category": "free_icons",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-17.png",
+            "site_url": "https://www.flaticon.com/",
+            "title": "flaticon"
+		},
+        {
+            "id": "24",
+            "category": "free_icons",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-18.png",
+            "site_url": "https://www.iconfinder.com/",
+            "title": "iconfinder"
+		},
+        {
+            "id": "25",
+            "category": "free_icons",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-19.png",
+            "site_url": "https://thenounproject.com/",
+            "title": "the noun project"
+		},
+        {
+            "id": "26",
+            "category": "free_icons",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-20.png",
+            "site_url": "https://iconmonstr.com/",
+            "title": "iconmonstr"
+		},
+        {
+            "id": "27",
+            "category": "free_icons",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-20-1.png",
+            "site_url": "https://zavoloklom.github.io/material-design-iconic-font/icons.html",
+            "title": "material icons"
+		},
+        {
+            "id": "28",
+            "category": "free_icons",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-20-2.png",
+            "site_url": "https://icons8.com/",
+            "title": "Icons 8"
+		},
+        {
+            "id": "29",
+            "category": "free_icons",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-20-3.png",
+            "site_url": "https://icons8.com/preloaders",
+            "title": "preloaders"
+		},
+        {
+            "id": "30",
+            "category": "free_icons",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-20-4.png",
+            "site_url": "https://iconify.design/icon-sets/",
+            "title": "Iconify for HTML"
+		},
+        {
+            "id": "31",
+            "category": "free_icons",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-109.png",
+            "site_url": "https://boxicons.com/",
+            "title": "boxicons"
+		},
+        {
+            "id": "32",
+            "category": "free_fonts",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-21.png",
+            "site_url": "https://fonts.google.com/",
+            "title": "google fonts"
+		},
+        {
+            "id": "33",
+            "category": "free_fonts",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-22.png",
+            "site_url": "https://www.dafont.com/",
+            "title": "dafont"
+		},
+        {
+            "id": "34",
+            "category": "free_fonts",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-23.png",
+            "site_url": "https://www.1001fonts.com/",
+            "title": "1001 Fonts"
+		},
+        {
+            "id": "35",
+            "category": "free_fonts",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-24.png",
+            "site_url": "https://www.fontsquirrel.com/",
+            "title": "font squirrel"
+		},
+        {
+            "id": "36",
+            "category": "free_fonts",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-25.png",
+            "site_url": "https://fontawesome.com/v4.7.0/icons/",
+            "title": "fontawesome 4.7.0"
+		},
+        {
+            "id": "37",
+            "category": "free_fonts",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-26.png",
+            "site_url": "https://fontawesome.com/",
+            "title": "fontawesome 5.15.1"
+		},
+        {
+            "id": "38",
+            "category": "free_fonts",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-26-1.jpg",
+            "site_url": "https://fontstruct.com/",
+            "title": "Fontstruct"
+		},
+        {
+            "id": "39",
+            "category": "free_fonts",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-26-2.jpg",
+            "site_url": "http://www.abstractfonts.com/",
+            "title": "abstract fonts"
+		},
+        {
+            "id": "40",
+            "category": "free_fonts",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-26-3.jpg",
+            "site_url": "https://fontzone.net/",
+            "title": "font zone"
+		},
+        {
+            "id": "41",
+            "category": "free_fonts",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-26-4.jpg",
+            "site_url": "https://goofonts.com/",
+            "title": "goo fonts"
+		},
+        {
+            "id": "42",
+            "category": "demo_text",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-27.png",
+            "site_url": "https://www.lipsum.com/",
+            "title": "lorem ipsum"
+		},
+        {
+            "id": "43",
+            "category": "webfont_generator",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-28.png",
+            "site_url": "https://transfonter.org/",
+            "title": "transfonter"
+		},
+        {
+            "id": "44",
+            "category": "webfont_generator",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-28-1.jpg",
+            "site_url": "https://www.web-font-generator.com/",
+            "title": "web font generator"
+		},
+        {
+            "id": "45",
+            "category": "w3schools",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-29.png",
+            "site_url": "https://www.w3schools.com/html/",
+            "title": "w3schools HTML"
+		},
+        {
+            "id": "46",
+            "category": "w3schools",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-30.png",
+            "site_url": "https://www.w3schools.com/css/default.asp",
+            "title": "w3schools CSS"
+		},
+        {
+            "id": "47",
+            "category": "w3schools",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-31.png",
+            "site_url": "https://www.w3schools.com/bootstrap4/default.asp",
+            "title": "w3schools Bootstrap 4"
+		},
+        {
+            "id": "48",
+            "category": "w3schools",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-31-1.png",
+            "site_url": "https://www.w3schools.com/howto/",
+            "title": "w3school how to"
+		},
+        {
+            "id": "49",
+            "category": "css_generator",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-32.png",
+            "site_url": "https://www.cssmatic.com/box-shadow",
+            "title": "shadow generator"
+		},
+        {
+            "id": "50",
+            "category": "css_generator",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-33.png",
+            "site_url": "http://apps.eky.hk/css-triangle-generator/",
+            "title": "triangle generator"
+		},
+        {
+            "id": "51",
+            "category": "css_generator",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-34.png",
+            "site_url": "https://www.cssmatic.com/gradient-generator",
+            "title": "gradient generator"
+		},
+        {
+            "id": "52",
+            "category": "css_generator",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-35.png",
+            "site_url": "https://ianlunn.github.io/Hover/",
+            "title": "hover master"
+		},
+        {
+            "id": "53",
+            "category": "css_generator",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-36.png",
+            "site_url": "https://daneden.github.io/animate.css/",
+            "title": "animate css"
+		},
+        {
+            "id": "54",
+            "category": "css_generator",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-37.png",
+            "site_url": "https://cssfx.dev/",
+            "title": "css effects"
+		},
+        {
+            "id": "55",
+            "category": "css_generator",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-38.png",
+            "site_url": "https://css-tricks.com/snippets/css/complete-guide-grid/",
+            "title": "css grid"
+		},
+        {
+            "id": "56",
+            "category": "css_generator",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-39.png",
+            "site_url": "https://jonsuh.com/hamburgers/",
+            "title": "animated hamburgers"
+		},
+        {
+            "id": "57",
+            "category": "css_generator",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-40.png",
+            "site_url": "https://9elements.github.io/fancy-border-radius/",
+            "title": "fancy border radius"
+		},
+        {
+            "id": "58",
+            "category": "css_generator",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-41.png",
+            "site_url": "https://tympanus.net/Development/TextInputEffects/",
+            "title": "text input effects"
+		},
+        {
+            "id": "59",
+            "category": "css_generator",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-41-1.png",
+            "site_url": "https://www.outpan.com/",
+            "title": "css development"
+		},
+        {
+            "id": "60",
+            "category": "css_generator",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-41-2.png",
+            "site_url": "http://animista.net/",
+            "title": "animista"
+		},
+        {
+            "id": "61",
+            "category": "css_generator",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-41-3.png",
+            "site_url": "https://www.theappguruz.com/tag-tools/web/CSSAnimations/",
+            "title": "the app guruz"
+		},
+        {
+            "id": "62",
+            "category": "css_generator",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-41-4.png",
+            "site_url": "https://imagehover.io/",
+            "title": "image hover"
+		},
+        {
+            "id": "63",
+            "category": "css_generator",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-41-5.png",
+            "site_url": "https://tutuldevs.hashnode.dev/alt-of-img",
+            "title": "gradient background"
+		},
+        {
+            "id": "64",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-42.png",
+            "site_url": "https://www.w3schools.com/js/default.asp",
+            "title": "w3schools javascript"
+		},
+        {
+            "id": "65",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-43.png",
+            "site_url": "https://www.w3schools.com/jquery/default.asp",
+            "title": "w3schools jquery"
+		},
+        {
+            "id": "66",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-44.png",
+            "site_url": "https://owlcarousel2.github.io/OwlCarousel2/",
+            "title": "owl carousel 2"
+		},
+        {
+            "id": "67",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-45.png",
+            "site_url": "https://kenwheeler.github.io/slick/",
+            "title": "slick slider"
+		},
+        {
+            "id": "68",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-46.png",
+            "site_url": "http://responsiveslides.com/",
+            "title": "responsive slider"
+		},
+        {
+            "id": "69",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-47.png",
+            "site_url": "https://michalsnik.github.io/aos/",
+            "title": "aos"
+		},
+        {
+            "id": "70",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-48.png",
+            "site_url": "https://gijsroge.github.io/tilt.js/",
+            "title": "tilt js"
+		},
+        {
+            "id": "71",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-49.png",
+            "site_url": "https://nosir.github.io/cleave.js/",
+            "title": "cleave js"
+		},
+        {
+            "id": "72",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-50.png",
+            "site_url": "https://oncebot.github.io/pushbar.js/",
+            "title": "slide menu"
+		},
+        {
+            "id": "73",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-51.png",
+            "site_url": "https://alvarotrigo.com/fullPage/",
+            "title": "full page"
+		},
+        {
+            "id": "74",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-52.png",
+            "site_url": "https://dixonandmoe.com/rellax/",
+            "title": "rellax js"
+		},
+        {
+            "id": "75",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-53.png",
+            "site_url": "https://www.scrolltotop.com/",
+            "title": "scroll to top"
+		},
+        {
+            "id": "76",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-54.png",
+            "site_url": "https://open.med.harvard.edu/stash/projects/SHRINE/repos/shrine/browse/apps/steward-app/src/main/js/bower_components/metisMenu?at=0f6215c6fe3",
+            "title": "metis menu"
+		},
+        {
+            "id": "77",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-55.png",
+            "site_url": "https://sarcadass.github.io/granim.js/examples.html",
+            "title": "granim js"
+		},
+        {
+            "id": "78",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-56.png",
+            "site_url": "https://wowjs.uk/",
+            "title": "wow js"
+		},
+        {
+            "id": "79",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-57.png",
+            "site_url": "http://fancyapps.com/fancybox/3/",
+            "title": "fancybox"
+		},
+        {
+            "id": "80",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-58.png",
+            "site_url": "https://jqueryui.com/accordion/#default",
+            "title": "accordion"
+		},
+        {
+            "id": "81",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-59.png",
+            "site_url": "https://idangero.us/swiper/demos/",
+            "title": "swiper slider"
+		},
+        {
+            "id": "81",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-60.png",
+            "site_url": "https://vincentgarreau.com/particles.js/",
+            "title": "particle js"
+		},
+        {
+            "id": "82",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-61.png",
+            "site_url": "https://matthew.wagerfield.com/parallax/",
+            "title": "parallax js"
+		},
+        {
+            "id": "83",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-62.png",
+            "site_url": "https://simpleparallax.com/",
+            "title": "simple parallax js"
+		},
+        {
+            "id": "84",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-63.png",
+            "site_url": "https://alvarotrigo.com/multiScroll/",
+            "title": "multi-scroll js"
+		},
+        {
+            "id": "85",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-64.png",
+            "site_url": "http://scrollme.nckprsn.com/",
+            "title": "scroll me js"
+		},
+        {
+            "id": "86",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-65.png",
+            "site_url": "https://www.javascripting.com/",
+            "title": "javascripting"
+		},
+        {
+            "id": "87",
+            "category": "javascript",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-65-1.png",
+            "site_url": "https://js.zonayed.me/",
+            "title": "js in bangla"
+		},
+        {
+            "id": "88",
+            "category": "design_and_ui",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-101.png",
+            "site_url": "https://vectr.com/",
+            "title": "vectr"
+		},
+        {
+            "id": "89",
+            "category": "design_and_ui",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-102.png",
+            "site_url": "https://www.cleverbrush.com/",
+            "title": "clever brush"
+		},
+        {
+            "id": "90",
+            "category": "design_and_ui",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-103.png",
+            "site_url": "https://www.figma.com/",
+            "title": "figma"
+		},
+        {
+            "id": "91",
+            "category": "design_and_ui",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-104.png",
+            "site_url": "https://whimsical.com/",
+            "title": "whimsical"
+		},
+        {
+            "id": "92",
+            "category": "design_and_ui",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-105.png",
+            "site_url": "https://www.mindmup.com/",
+            "title": "mindmup"
+		},
+        {
+            "id": "93",
+            "category": "design_and_ui",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-106.png",
+            "site_url": "https://allthefreestock.com/",
+            "title": "all the freestock"
+		},
+        {
+            "id": "94",
+            "category": "design_and_ui",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-107.png",
+            "site_url": "https://codemyui.com/",
+            "title": "code my ui"
+		},
+        {
+            "id": "95",
+            "category": "design_and_ui",
+            "image_url": "https://docs.learncomputer.in/assets/img/preview-108.png",
+            "site_url": "https://www.landen.co/",
+            "title": "laden"
+		}
+
+	]
+}
