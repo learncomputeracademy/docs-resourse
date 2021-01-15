@@ -1,2 +1,9 @@
-# docs-resourse
- Docs Resourses and Extension
+# LCA Docs Resourses
+##### Docs Resourses and Extension
+***
+
+##### [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+
+##### Visit [Docs](https://learncomputeracademy.github.io/docs-resourse/)
+
+##### Visit [Extension](https://learncomputeracademy.github.io/docs-resourse/extension.html)
